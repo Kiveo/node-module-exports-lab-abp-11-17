@@ -7,6 +7,6 @@ class Icebreaker{
   }
 }
 
-const Question = require("model/Question.js");
+const Question = require("Question.js");
 
 module.exports = Icebreaker;
